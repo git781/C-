@@ -1,0 +1,15 @@
+/home/anna/Pulpit/C#/InheritProject/bin/Debug/net6.0/InheritProject
+/home/anna/Pulpit/C#/InheritProject/bin/Debug/net6.0/InheritProject.deps.json
+/home/anna/Pulpit/C#/InheritProject/bin/Debug/net6.0/InheritProject.runtimeconfig.json
+/home/anna/Pulpit/C#/InheritProject/bin/Debug/net6.0/InheritProject.dll
+/home/anna/Pulpit/C#/InheritProject/bin/Debug/net6.0/InheritProject.pdb
+/home/anna/Pulpit/C#/InheritProject/obj/Debug/net6.0/InheritProject.csproj.AssemblyReference.cache
+/home/anna/Pulpit/C#/InheritProject/obj/Debug/net6.0/InheritProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/anna/Pulpit/C#/InheritProject/obj/Debug/net6.0/InheritProject.AssemblyInfoInputs.cache
+/home/anna/Pulpit/C#/InheritProject/obj/Debug/net6.0/InheritProject.AssemblyInfo.cs
+/home/anna/Pulpit/C#/InheritProject/obj/Debug/net6.0/InheritProject.csproj.CoreCompileInputs.cache
+/home/anna/Pulpit/C#/InheritProject/obj/Debug/net6.0/InheritProject.dll
+/home/anna/Pulpit/C#/InheritProject/obj/Debug/net6.0/refint/InheritProject.dll
+/home/anna/Pulpit/C#/InheritProject/obj/Debug/net6.0/InheritProject.pdb
+/home/anna/Pulpit/C#/InheritProject/obj/Debug/net6.0/InheritProject.genruntimeconfig.cache
+/home/anna/Pulpit/C#/InheritProject/obj/Debug/net6.0/ref/InheritProject.dll
